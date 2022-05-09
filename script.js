@@ -19,3 +19,13 @@ function getRandomColor() {
   }
   return color;
 }
+
+function blackColor() {
+  color = 'black';
+  return color;
+}
+
+function whiteColor() {
+  color = 'white';
+  return color;
+}
